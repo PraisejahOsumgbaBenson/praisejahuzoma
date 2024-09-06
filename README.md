@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm PJ! 👋
+Hi, I'm Praisejah! 👋
 
 I'm a passionate developer exploring the world of web development and software engineering. My journey involves working with technologies like JavaScript, React, and various modern tools. I have a strong interest in automating tasks, improving my coding skills, and building impactful projects.
 
